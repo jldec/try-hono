@@ -20,6 +20,8 @@ type 'd' to open Chrome dev tools
 or
 attach from VS Code with "Wrangler" debug config
 
+![Screenshot 2024-04-28 at 22 40 09](https://github.com/jldec/try-hono/assets/849592/ac446a4a-bf19-4827-8195-d17bcb6f76f2)
+
 ### deploy
 ```
 # wrangler deploy --minify src/index.ts
