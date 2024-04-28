@@ -29,6 +29,7 @@ attach from VS Code with "Wrangler" debug config
 pnpm pre-ship
 ```
 
+![Screenshot 2024-04-28 at 23 14 00](https://github.com/jldec/try-hono/assets/849592/2175d3c9-3c48-46b5-96a9-1fd1bf943ac4)
 
 ### deploy
 ```
