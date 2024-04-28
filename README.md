@@ -25,7 +25,7 @@ attach from VS Code with "Wrangler" debug config
 
 ### build without deploy
 ```
-# wrangler deploy --minify src/index.ts
+# wrangler deploy --dry-run --outdir dist --minify src/index.ts
 pnpm pre-ship
 ```
 
